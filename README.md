@@ -51,7 +51,7 @@ A retail brand needs to know which regions and products are actually driving pro
 
 ## 📸 Dashboard
  
-![Nike Sales Dashboard](images/Nike_sales_Project.png)
+![Nike Sales Dashboard](https://github.com/Shodunke-Feranmi/Nike-sales/blob/main/Nike%20sales%20Project.png)
  
 ## 📚 Skills Demonstrated
  
